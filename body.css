@@ -1,0 +1,6 @@
+body,html {
+  font-family: 'Segoe UI', sans-serif;
+  scroll-behavior: smooth;
+  background-color: #f4f6f8;
+  color: #222;
+}
